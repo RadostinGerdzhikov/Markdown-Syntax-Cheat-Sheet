@@ -46,7 +46,7 @@
 
 
 
-<mark>[See Markdown Syntax in this document](https://github.com/RadostinGerdzhikov/Markdown-Syntax-Cheat-Sheet/edit/master/README.md)</mark>
+<mark>[See Markdown Syntax in this document](https://gist.githubusercontent.com/RadostinGerdzhikov/5b99f5020c88fba2d9fc748d7ca34ee2/raw/9a01effc45af31900a69c7d8adfc37dd28bffe34/Mardown%2520syntax.md)</mark>
 
 [More usefull info for you](https://blog.ghost.org/markdown/)
 
@@ -59,7 +59,7 @@ function Hello()
 }
 ```
 
-![finger for GOOD JOB](https://i.pinimg.com/originals/ac/1d/00/ac1d00fe479c04c579332149ac61b865.png)
+![finger for GOOD JOB](https://banner2.kisspng.com/20180401/slq/kisspng-smiley-emoticon-computer-icons-thumb-signal-clip-a-good-job-5ac0eed66f1a42.0245750415225934944551.jpg)
 
 ```
 Thank you for reading this document!
