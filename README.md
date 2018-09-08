@@ -46,7 +46,7 @@
 
 
 
-<mark>[See Markdown Syntax in this document](https://gist.githubusercontent.com/RadostinGerdzhikov/5b99f5020c88fba2d9fc748d7ca34ee2/raw/bfc116b7d8fd7c22908c8b432778ad47ee7c5b6e/Mardown%2520syntax.md)</mark>
+<mark>[See Markdown Syntax in this document]https://github.com/RadostinGerdzhikov/Markdown-Syntax-Cheat-Sheet/edit/master/README.md)</mark>
 
 [More usefull info for you](https://blog.ghost.org/markdown/)
 
